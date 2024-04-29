@@ -88,7 +88,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![Uploading image.png…]()
+![image](https://github.com/Revathikuppan/Linux-IPC-Pipes/assets/144870694/f685e12c-bcf2-4a6f-afda-ea0bc9a4867c)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
